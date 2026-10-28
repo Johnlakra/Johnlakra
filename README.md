@@ -42,6 +42,8 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/Johnlakra/cyd_Id_BE/pull/1) in [Johnlakra/cyd_Id_BE](https://github.com/Johnlakra/cyd_Id_BE)
+2. 💪 Opened PR [#2](https://github.com/Johnlakra/CYD_ID/pull/2) in [Johnlakra/CYD_ID](https://github.com/Johnlakra/CYD_ID)
 <!--END_SECTION:activity-->
 
 ---
