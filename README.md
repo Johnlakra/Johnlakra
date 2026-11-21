@@ -42,8 +42,8 @@
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Johnlakra/cyd_Id_BE/pull/2) in [Johnlakra/cyd_Id_BE](https://github.com/Johnlakra/cyd_Id_BE)
-2. 💪 Opened PR [#1](https://github.com/Johnlakra/cyd_Id_BE/pull/1) in [Johnlakra/cyd_Id_BE](https://github.com/Johnlakra/cyd_Id_BE)
+1. 🚀 Published release [Bible packs](https://github.com/Johnlakra/bible/releases/tag/packs-latest) in [Johnlakra/bible](https://github.com/Johnlakra/bible)
+2. 💪 Opened PR [#2](https://github.com/Johnlakra/cyd_Id_BE/pull/2) in [Johnlakra/cyd_Id_BE](https://github.com/Johnlakra/cyd_Id_BE)
 <!--END_SECTION:activity-->
 
 ---
